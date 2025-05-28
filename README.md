@@ -55,8 +55,12 @@ npm start
 step 4:
 Open your browser at http://localhost:3000 to use the app.
 
-
-
+## Demo Screenshots
+![image](https://github.com/user-attachments/assets/d5b78b2e-3659-4335-a5d3-544dad7c6596)
+![image](https://github.com/user-attachments/assets/c6b36664-f196-4c1a-b4a9-163f550f4ec7)
+![image](https://github.com/user-attachments/assets/4b1830f9-9fe3-41a3-8a90-d69cf0a6a4bd)
+![image](https://github.com/user-attachments/assets/532776ef-fa59-4769-8995-95eb0ff103c1)
+![image](https://github.com/user-attachments/assets/66e1025b-8502-40a6-a207-4b7c40591d74)
 
 
 “This project is a part of a hackathon run by https://www.katomaran.com ”
