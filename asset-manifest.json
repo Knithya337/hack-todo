@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hack-todo/static/js/main.937e6e22.js",
+    "index.html": "/hack-todo/index.html",
+    "main.937e6e22.js.map": "/hack-todo/static/js/main.937e6e22.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.937e6e22.js"
+  ]
+}
