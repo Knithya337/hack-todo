@@ -62,5 +62,7 @@ Open your browser at http://localhost:3000 to use the app.
 ![image](https://github.com/user-attachments/assets/532776ef-fa59-4769-8995-95eb0ff103c1)
 ![image](https://github.com/user-attachments/assets/66e1025b-8502-40a6-a207-4b7c40591d74)
 
+## Demo Video
+https://drive.google.com/file/d/1QfOVctIn29_gzaifEgJ82bPJXhQ7hAop/view?usp=sharing
 
 “This project is a part of a hackathon run by https://www.katomaran.com ”
